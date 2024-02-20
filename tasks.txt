@@ -1,0 +1,9 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2024-01-01;2022-11-22;Yes
+MattSpence;Task 1;task 1;2024-02-06;2024-02-05;No
+MattSpence;Task 2;Task 2;2024-02-14;2024-02-08;No
+MattSpence;Task 3;Task 3;2024-02-29;2024-02-08;No
+admin;Task 8;Task 8;2024-02-28;2024-02-12;Yes
+admin;Finish capstone;complete code;2024-02-12;2024-02-08;Yes
+MattSpence;Task 123;Coding;2024-02-13;2024-02-08;Yes
+newuser;Task 1;competre task 1;2024-02-15;2024-02-12;No
+Matthew;Finish Bootcamp Tasks;Complete remaining bootcamp tasks ;2024-03-11;2024-02-14;No

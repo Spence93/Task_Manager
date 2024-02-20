@@ -1,0 +1,5 @@
+admin;password
+MattSpence;spence
+testuser;test
+newuser;test
+Matthew;spence

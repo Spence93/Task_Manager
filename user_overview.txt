@@ -1,0 +1,38 @@
+
+Total number of users: 5
+Total number of Tasks: 9
+
+Username: admin
+Number of assigned tasks: 3
+Users percentage of Total tasks: 33.3%
+Users completed task percentage: 100.0%
+Users due Tasks: 0.0%
+Users overdue Tasks 0.0%
+
+Username: MattSpence
+Number of assigned tasks: 4
+Users percentage of Total tasks: 44.4%
+Users completed task percentage: 25.0%
+Users due Tasks: 75.0%
+Users overdue Tasks 50.0%
+
+Username: testuser
+Number of assigned tasks: 0
+Users percentage of Total tasks: 0.0%
+Users completed task percentage: 0%
+Users due Tasks: 0%
+Users overdue Tasks 0%
+
+Username: newuser
+Number of assigned tasks: 1
+Users percentage of Total tasks: 11.1%
+Users completed task percentage: 0.0%
+Users due Tasks: 100.0%
+Users overdue Tasks 100.0%
+
+Username: Matthew
+Number of assigned tasks: 1
+Users percentage of Total tasks: 11.1%
+Users completed task percentage: 0.0%
+Users due Tasks: 100.0%
+Users overdue Tasks 0.0%
