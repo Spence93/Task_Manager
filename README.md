@@ -20,19 +20,23 @@ You do not require the task.txt and user.txt files, but you can use the tasks an
 The user and task overview.txt files will be generated in the program, there is no need to download these.
 
 
-### Using the program
+## Using the program
 
-## If you did not download the tasks.txt and user.txt
+### If you did not download the tasks.txt and user.txt
 On your first login, use:
 Username: admin
 Password: password
 
 From here you can add your own users and tasks, and the files will be created as needed.
 
-## If you did download the tasks.txt and user.txt files
+### If you did download the tasks.txt and user.txt files
 You can still loging using the admin, or choose from any of the other users that are stored in the user.txt file
 
 Follow the on screen instructions to navigate through the program, to add new users, tasks, and to view all tasks or the current users assigned tasks.
+
+### Note
+The Display statistics can only be accessed by the admin account on the program
+
 
 
 
